@@ -1,0 +1,8 @@
+github-copilot-sdk
+
+fastapi
+uvicorn
+
+fastmcp
+
+python-dotenv
